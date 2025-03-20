@@ -12,5 +12,5 @@ const getCommentsFromPublication = async (idpub) => {
   }
 };
 
-// Ejecutar la prueba (reemplaza con un ID real de una publicación existente)
+// Ejecutar la prueba 
 getCommentsFromPublication("Df5wGBjPwODJKCm8v8kV");

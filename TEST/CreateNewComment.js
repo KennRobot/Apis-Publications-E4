@@ -20,5 +20,5 @@ const addCommentToPublication = async (idpub) => {
   }
 };
 
-// Ejecutar la prueba (reemplaza con un ID real de una publicación existente)
+// Ejecutar la prueba 
 addCommentToPublication("Df5wGBjPwODJKCm8v8kV");

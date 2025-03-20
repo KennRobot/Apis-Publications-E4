@@ -12,5 +12,5 @@ const deletePublication = async (id) => {
   }
 };
 
-// Ejecutar la prueba (reemplaza con un ID real)
+// Ejecutar la prueba 
 deletePublication("ujl5Ve5IssNV9IlkynzD");
