@@ -14,9 +14,9 @@ const addCommentToPublication = async (idpub) => {
       headers: { "Content-Type": "application/json" }
     });
 
-    console.log("✅ Comentario agregado:", response.data);
+    console.log("Comentario agregado:", response.data);
   } catch (error) {
-    console.error("❌ Error al agregar el comentario:", error.response?.data || error.message);
+    console.error("Error al agregar el comentario:", error.response?.data || error.message);
   }
 };
 
