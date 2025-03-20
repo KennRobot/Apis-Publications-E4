@@ -13,4 +13,4 @@ const getPublicationById = async (id) => {
 };
 
 // Ejecutar pruebas
-getPublicationById("ujl5Ve5IssNV9IlkynzD");
+getPublicationById("Df5wGBjPwODJKCm8v8kV");
